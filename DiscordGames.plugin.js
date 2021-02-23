@@ -25,7 +25,7 @@
 	}
 	WScript.Quit();
 @else@*/
-class CookieClicker {
+class DiscordGames {
 
 	constructor() {
 
